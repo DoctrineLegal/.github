@@ -1,4 +1,4 @@
-![Our Wall](./Wall.png)
+![Our Wall](./profile/Wall.png)
 
 Hey there 👋
 
