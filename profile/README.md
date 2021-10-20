@@ -1,8 +1,10 @@
+![Our Wall](Wall.png)
+
 Hey there 👋
 
 We are [Doctrine](https://www.doctrine.fr) engineering team, we build the first legal intelligence platform. You can learn more about us in this README!
 
-# Our principles 
+# Our principles
 
 ### Challenge the Status Quo
 
@@ -23,36 +25,39 @@ Additionally, effective knowledge sharing that really empowers engineers goes be
 In order to support Doctrine business and objectives we must have a steady delivery pace. However we should not compromise on developer experience, ability to iterate later or Service Level Objectives (SLO) in order to release early. For that we need to find the pragmatic balance between the following Do and Don’t:
 
 #### Do
-* Iterate on features: We strive for early delivery and ability to iterate rapidly by releasing often.
-* Listen to feedback: As we listen to our customers we understand that we should focus the technical effort where it will ultimately have the most long term customer impact.
+
+- Iterate on features: We strive for early delivery and ability to iterate rapidly by releasing often.
+- Listen to feedback: As we listen to our customers we understand that we should focus the technical effort where it will ultimately have the most long term customer impact.
 
 #### Don’t
-* Release buggy and untested feature: We understand that releasing early & often does not mean releasing fast and dirty.
-* Release weak, inconsistent and/or undocumented code: we know that releasing early & often especially on the long run requires having a solid, consistent, documented and ready to evolve infrastructure, architecture and code base which in itself takes time and effort.
+
+- Release buggy and untested feature: We understand that releasing early & often does not mean releasing fast and dirty.
+- Release weak, inconsistent and/or undocumented code: we know that releasing early & often especially on the long run requires having a solid, consistent, documented and ready to evolve infrastructure, architecture and code base which in itself takes time and effort.
 
 You can learn more about how those principles derive from our values in [Doctrine Engineering Principles & Practices](https://medium.com/doctrine/doctrine-engineering-principles-and-practices-7faab666fac9).
 
 # Our tech stack
 
 This is not an exhaustive list, but we mainly work with:
-* Node.js / NestJS
-* React / Next.js
-* TypeScript
-* Jest, Cypress
-* Elasticsearch
-* PostgreSQL
-* Snowflake
-* Python
-* Pytest
-* Airflow
-* Pytorch
+
+- Node.js / NestJS
+- React / Next.js
+- TypeScript
+- Jest, Cypress
+- Elasticsearch
+- PostgreSQL
+- Snowflake
+- Python
+- Pytest
+- Airflow
+- Pytorch
 
 We host our code on Github, deploy on AWS on Kubernetes and Lambdas leveraging Terraform & CircleCI. We monitor our production with Datadog and Rollbar.
 
 # Learn more about us
 
-You can learn more about what we build and how we build it on our [blog](https://medium.com/doctrine/engineering/home). 
+You can learn more about what we build and how we build it on our [blog](https://medium.com/doctrine/engineering/home).
 
-You can also meet us at the [Paris NLP Meetup](https://www.meetup.com/fr-FR/Paris-NLP/) that we regularly organize. 
+You can also meet us at the [Paris NLP Meetup](https://www.meetup.com/fr-FR/Paris-NLP/) that we regularly organize.
 
 And if feel like joining us, don't hesitate to look at our [job offers](https://www.doctrine.fr/recrutement)!
