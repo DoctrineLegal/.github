@@ -60,4 +60,4 @@ You can learn more about what we build and how we build it on our [blog](https:/
 
 You can also meet us at the [Paris NLP Meetup](https://www.meetup.com/fr-FR/Paris-NLP/) that we regularly organize.
 
-And if feel like joining us, don't hesitate to look at our [job offers](https://www.doctrine.fr/recrutement)!
+And if you feel like joining us, don't hesitate to look at our [job offers](https://www.doctrine.fr/recrutement)!
