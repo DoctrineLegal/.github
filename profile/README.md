@@ -51,6 +51,7 @@ This is not an exhaustive list, but we mainly work with:
 - Pytest
 - Airflow
 - Pytorch
+- Various LLMs
 
 We host our code on Github, and deploy on AWS on Kubernetes and Lambdas leveraging Terraform & CircleCI. We monitor our production with Datadog and Rollbar.
 
